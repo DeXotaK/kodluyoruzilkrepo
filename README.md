@@ -20,5 +20,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Hakkımda
-> Hakan Yalçınkaya 
+> İsa Koçan 
 > > [LinkedIn](https://www.linkedin.com/in/isa-ko%C3%A7an-561809248/) - [İnstagram](https://www.instagram.com/isakocn/)
