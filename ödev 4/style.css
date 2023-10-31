@@ -1,0 +1,55 @@
+body {
+    background-color: lightgray;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Varela Round', sans-serif;
+}
+
+
+#a {
+    background-color: lightblue;
+    list-style-position: inside;
+}
+
+#b {
+    background-color: lightgreen;
+}
+
+#c {
+    background-color: lightgoldenrodyellow;
+}
+
+#d {
+    background-color: lightcoral;
+}
+
+#i {
+    background-color: darkgray;
+}
+
+li {
+    font-weight: bold;
+    font-size: larger;
+}
+
+a {
+    color:brown;
+    font-weight: bold;
+}
+
+img {
+    height: 200px; 
+}
+
+.contact {
+    height: 50px;
+}
+
+.up {
+    color: rgb(189, 123, 0);
+    font-weight: bold;
+    font-style: italic;
+}
+
+#up {
+    color: rgb(255, 206, 116);
+}
