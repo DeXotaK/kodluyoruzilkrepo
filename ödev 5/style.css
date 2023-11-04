@@ -1,0 +1,64 @@
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
+
+.search {
+    background-color: #EEEEEE;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.boxes {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 77.2px;
+}
+
+.boxone {
+    background-color: #7EE5DA;
+    width: 37%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+}
+
+.boxtwo {
+    background-color: #70CCC2;
+    width: 20%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    font-size:smaller; 
+    height: 67.2px;
+}
+
+div {
+    margin: 1px;
+   
+}
+
+.boxthree {
+    background-color: #62B3AA;
+    width: 43%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    font-size:smaller; 
+    height: 75.2px;
+}
+
+.copyright {
+    font-size: smaller;
+}
+
